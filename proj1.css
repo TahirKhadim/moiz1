@@ -1,0 +1,3612 @@
+.logo-area {
+    /* background-color: #227f7c; */
+    /* background-color: rgb(61, 47, 128); */
+    /* background: linear-gradient(to top, #32236D, #372877, #2D1E64); */
+    background-color: rgb(78, 64, 157);
+
+    height: 87px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+#linea-1 {
+    position: relative;
+}
+
+#linea-1 {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 10%;
+    line-height: 15px;
+}
+
+#linea-1 {
+    position: relative;
+}
+
+#linea- {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 10%;
+    line-height: 15px;
+}
+
+/* 
+.about-image-box {
+    height: 250px;
+    width: 450px;
+    background-image: url("nassets/a1.jpg");
+    margin-top: 45px;
+    margin-left: 95px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; /* Use cover to make the image cover the container */
+*/ .middle-heading #line-3::after {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 23.5%;
+    /* Adjust this value to control the line's length as a percentage of the <h3> width */
+    margin: 0 auto;
+    /* Center the line within the <h3> */
+}
+
+
+.middle-heading #line-3 {
+    position: relative;
+}
+
+.middle-heading #line-3::after {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 23%;
+    /* Adjust this value to control the line's length as a percentage of the <h3> width */
+    margin: 0 auto;
+    /* Center the line within the <h3> */
+}
+
+
+.middle-heading #line-2 {
+    position: relative;
+}
+
+.middle-heading #line-2::after {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 25%;
+    /* Adjust this value to control the line's length as a percentage of the <h3> width */
+    margin: 0 auto;
+    /* Center the line within the <h3> */
+}
+
+.middle-heading #line-1 {
+    position: relative;
+}
+
+.middle-heading #line-1::after {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 8.5%;
+    /* Adjust this value to control the line's length as a percentage of the <h3> width */
+    margin: 0 auto;
+    /* Center the line within the <h3> */
+}
+
+.middle-heading #line-0 {
+    position: relative;
+}
+
+.middle-heading #line-0::after {
+    content: "";
+    display: block;
+    height: 1px;
+    /* Line height */
+    background-color: black;
+    /* Line color */
+    position: absolute;
+    bottom: 0;
+    /* Position it at the bottom of the <h3> */
+    left: 0;
+    right: 0;
+    /* Make it span the entire width of the <h3> */
+    width: 12.5%;
+    /* Adjust this value to control the line's length as a percentage of the <h3> width */
+    margin: 0 auto;
+    /* Center the line within the <h3> */
+}
+
+.card-row {
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.star-link {
+    cursor: pointer;
+}
+
+.card-text {
+    padding: 10px;
+}
+
+#logo {
+    color: red;
+}
+
+.test {
+    background-color: #FAFAD2;
+}
+
+#bn {
+    background-color: rgb(255, 248, 248);
+}
+
+.social-iconss a {
+    color: rgb(249, 249, 249);
+    padding-left: 2px;
+
+}
+
+.hour {
+    color: black;
+}
+
+.social-iconss {
+    margin-left: 37px;
+
+}
+
+.video-section video {
+    height: 350px;
+    width: 100%;
+
+}
+
+
+@keyframes fade-in {
+    100% {
+        opacity: 1;
+        filter: blur(0);
+    }
+}
+
+
+.about-us h3 {
+    font-family: 'Times New Roman', Times, serif;
+    /* color: white; */
+    color:#FFFFFF;
+    /* color: #000000; */
+    font-size: large;
+    font-weight: 9000;
+}
+
+.second-gear {
+    padding-left: 230px;
+    padding-top: 15px;
+}
+
+.about-us {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    background-color: #7F41B7;
+    /* background: #e9e7d6; */
+    /* background-color: #FF96FF; */
+
+
+}
+
+
+
+.about-box2 {
+    padding: 30px;
+
+
+}
+
+
+
+.about-box2:hover {
+    transform: translateY(-3px);
+    transition: 0.2s ease-in-out;
+}
+
+.about-box1 {
+    background-color: rgb(255, 248, 248);
+    padding: 30px;
+    margin-top: 40px;
+    margin-right: 50px;
+    border-radius: 22px;
+    margin-bottom: 30px;
+}
+
+.video-section video {
+    height: 310px;
+    width: 100%;
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+
+
+
+.gear-icon {
+    padding-left: 188px;
+}
+
+.gear-iconn {
+    padding-left: 210px;
+    padding-top: 20px;
+
+}
+
+.btn1:hover{
+    transform: translateY(-5px);
+}
+
+.btn1 {
+    position: relative;
+    display: block;
+    font-size: 14px;
+    font-family: "montserrat";
+    text-decoration: none;
+    /* margin: 0px; */
+    /* padding: 14px 60px; */
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: 0.3s ease-in;
+    color: white;
+    /* margin-top:30px; */
+    height: 45px;
+}
+
+/* .btn::before {
+    background-color: #e6e6e6;
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    transition: all 0.6s ease;
+} */
+/* 
+.btn1::before {
+    width: 0%;
+    height: 100%;
+} */
+
+/* .btn1:hover::before {
+    width: 50%;
+} */
+
+.navbar-nav {
+    margin: auto
+}
+
+h1 {
+    font-family: oswald;
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 1;
+    color: #e1c8c8;
+    text-shadow: 2px 2px black;
+}
+
+#box1 {
+    padding-left: 70px;
+    padding-bottom: 30px;
+
+}
+
+#box1:hover {
+    transform: translateY(-10px);
+    transition: transform 0.2s ease;
+    /* Add a smooth transition effect */
+}
+
+#box2 {
+    padding-left: 70px;
+    padding-bottom: 30px;
+
+}
+
+#box2:hover {
+    transform: translateY(-10px);
+    transition: transform 0.2s ease;
+    /* Add a smooth transition effect */
+}
+
+.aboutbox {
+    padding: 20px;
+    background-color: pink;
+    border-radius: 20px;
+
+}
+
+.line2 {
+    height: 4px;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+.about-ki-image video {
+    width: 100%;
+    height: 300px;
+    padding-top: 50px;
+}
+
+
+.about-aboutus {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    font-size: larger;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about-ki-image {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.last-section {
+    /* background-color: #227f7c; */
+    background-color: rgb(78, 64, 157);
+}
+
+#col1 h1 {
+    padding-left: 38px;
+    padding-top: 0px;
+
+}
+
+.h1 {
+    color: white;
+}
+
+#col1 p {
+    padding-left: 40px;
+    padding-top: 0px;
+}
+
+.quick-links h5 {
+    padding-top: 30px;
+}
+
+#col2 {
+    padding-left: 150px;
+}
+
+.footer {
+    /* background-color: #227f7c; */
+    /* background-color: rgb(188, 235, 121); */
+    /* background-color: #361E74; */
+    background-color: #FFFFFF;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    padding: 25px;
+}
+
+.footer p {
+    /* color: white; */
+    color: #000000;
+    font-size: small;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.button-25 {
+    background-color: #FF8E8E;
+    margin-top: 25px;
+    border-radius: 30px;
+
+}
+
+.button-25:hover {
+    background-color: transparent;
+    color: #505050;
+    border: 1px solid black;
+
+}
+
+.box-p3 {
+    padding: 40px;
+    background-color: #efe0e0;
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+
+
+.box-p3 {
+    transition: transform 0.2s ease;
+    /* Add a smooth transition effect */
+}
+
+.box-p3:hover {
+    transform: translateY(-10px);
+    /* Lift the box on hover */
+}
+
+.box-p2 {
+    padding: 40px;
+    /* background-color: #227f7c; */
+
+    background-color: rgb(255, 44, 148);
+    width: 100%;
+    padding: 10px;
+    border-radius: 30px;
+
+}
+
+.box-p2 p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding-top: 20px;
+}
+
+.copyright {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 25px;
+    background-color: #bdb1b1;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+.row-legend {
+    padding-top: 40px;
+}
+
+.review {
+    padding-left: 12px;
+    padding-top: 12px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+.quick-links h5 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding-top: 70px;
+    font-size: 23px;
+}
+
+.quick-links ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    font-size: 15px;
+
+}
+
+.quick-links h6 {
+    padding-top: 2px;
+    font-size: small;
+    font-weight: 400;
+    color: white;
+}
+
+.quick-links ul li a::after {
+    content: "";
+    /* Create an empty pseudo-element */
+    position: absolute;
+    /* Position it absolutely within the link */
+    left: 0;
+    /* Position it at the left edge of the link */
+    right: 0;
+    /* Position it at the right edge of the link */
+    bottom: -2px;
+    /* Adjust the distance of the underline from the text */
+    border-bottom: 2px solid transparent;
+    /* Create a transparent underline */
+    transition: border-color 0.3s;
+    /* Add a smooth transition effect for the border-color */
+}
+
+.quick-links ul li a:hover::after {
+    border-color: black;
+    /* Change the border-color on hover */
+}
+
+.quick-links ul {
+    list-style: none;
+    padding-left: 4px;
+
+}
+
+
+.box-p {
+    background-color:transparent;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+
+.carousel-item img {
+    height: 2px;
+    /* Adjust this value as needed */
+    object-fit: cover;
+    /* This ensures the image covers the entire carousel item */
+}
+
+
+body {
+    overflow-x: hidden;
+
+}
+
+.square-img-container {
+    position: relative;
+    width: 100%;
+    padding-top: 100%;
+    /* 1:1 Aspect Ratio (square) */
+    overflow: hidden;
+}
+
+.square-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Set the height to 100% to fill the container */
+    max-height: 100%;
+    /* Ensure the image does not exceed the height of the container */
+}
+
+.card {
+    border: none;
+    box-shadow: none;
+    height: auto;
+    width: 100%;
+    padding-top: 28px;
+}
+
+.card {
+
+
+    transition: transform 0.2s ease;
+    /* Add a smooth transition effect */
+
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    /* Lift the box on hover */
+
+}
+
+.center-area {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+}
+
+.center-area2 {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+
+
+/* Add a class for the carousel caption animation */
+.show-carousel-caption {
+    opacity: 0;
+    /* Initial opacity set to 0 */
+    animation: fadeIn 1s ease-in forwards;
+    /* Animation definition */
+}
+
+.middle-heading h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+
+
+}
+
+.card-body {
+    margin: 0;
+    padding-left: 0;
+}
+
+.middle-heading {
+    /* padding: 40px; */
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-top: 40px;
+
+}
+
+.middle-heading .row .line {
+    width: 10%;
+    height: 3px;
+    background-color: black;
+    margin: auto;
+}
+
+.middle-heading .row .line2 {
+    width: 35%;
+    height: 3px;
+    background-color: black;
+    margin: auto;
+}
+
+
+
+/* Define the fadeIn animation */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    /* Start with opacity 0 */
+    100% {
+        opacity: 0.6;
+    }
+
+    /* End with opacity 1 */
+}
+
+.row img {
+    padding-top: 1px;
+}
+
+.navbar {
+
+    height: auto;
+
+}
+
+.nav-item .nav-link {
+    /* color: #320f0f; */
+    color: #000000;
+    font-weight: 400;
+    font-size: medium;
+}
+
+.need-call {
+    display: none;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #87fcf8;
+}
+
+.dropdown-menu  {
+    border: none;
+
+}
+dropdown-menu .dropdown-item {
+    font-size: medium;
+}
+
+.hidden {
+    display: none;
+}
+
+.ropdown-menu .dropdown-item:hover {
+    background-color: lightcyan;
+}
+
+.carousel-item img {
+    height: 700px;
+    /* Adjust this value as needed */
+    width: 100%;
+    object-fit: cover;
+    /* Crop the image to fit the container while maintaining aspect ratio */
+}
+
+.carousel-caption {
+    padding-bottom: 300px;
+}
+
+.container {
+    position: relative;
+}
+
+/* Style the carousel caption */
+.carousel-caption {
+    background-color: #505050;
+    padding: 30px;
+    /* Adjust padding as needed */
+    opacity: 1;
+    /* Adjust the opacity to your preference */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    /* Add a shadow effect */
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    /* Center the text inside the caption */
+    width: 60%;
+    height: 35%;
+}
+
+
+/* Style the heading inside the caption */
+.carousel-caption h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    padding-top: 30px;
+    /* Text color for better contrast */
+}
+
+.button-24 {
+
+    background-color: #227f7c;
+    color: white;
+
+}
+
+.button-24:hover {
+    background-color: transparent;
+    border: 1px solid lightgrey;
+    color: #fff;
+}
+
+.sm {
+    padding-top: 30px;
+}
+
+.sm .btn {
+    background-color: transparent;
+    color: #ffff;
+    font-weight: 9000;
+}
+
+.contact-button:hover {
+    transform: translateY(-1px);
+    transition: 0.3s ease-in;
+
+}
+
+.sm .btn:hover {
+
+
+    border: 1px solid lightgrey;
+    color: #fff;
+}
+
+@media (max-width: 1200px) {
+
+
+    .carousel-caption {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 80%;
+        height: 50%;
+    }
+
+    .navbar-nav {
+        margin: auto;
+
+    }
+
+    .video-section video {
+        height: 450px;
+        width: 100%;
+        padding-top: 0px;
+        padding-left: 60px;
+    }
+
+  
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .carousel-item img {
+        height: 600px;
+        /* Adjust this value as needed */
+        width: 100%;
+        object-fit: cover;
+        /* Crop the image to fit the container while maintaining aspect ratio */
+    }
+
+    .copyright {
+        padding: 15px;
+    }
+
+
+
+    .center-area {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 38px;
+    }
+
+}
+
+@media (max-width:1200px) {
+
+
+    .carousel-caption2 {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 42%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 60%;
+        height: 80%;
+    }
+
+
+
+}
+
+
+
+
+@media (max-width: 991.98px) {
+    .carousel-caption {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 75%;
+        height: 55%;
+
+    }
+
+    .need-call {
+        display: none;
+    }
+
+
+}
+
+/* CSS for screens with a width between 768px and 991px */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* Your CSS styles for this screen width range go here */
+    /* For example, you can add specific styles for tablets in this range */
+    .card-row {
+        padding-left: 100px;
+    }
+
+    .dropdown-menu{
+        width: 100%;
+
+    }
+  
+    
+    .dropdown-menu .dropdown-item{
+        padding-left: 30px;
+    }
+}
+.navbar .nav-link{
+    
+padding-right: 0;
+padding-left: 30px;
+
+}
+#col1 h1 {
+    padding-left: 18px;
+    padding-top: 0px;
+
+}
+
+.video-section video {
+    height: 310px;
+    width: 100%;
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+.copyright {
+    padding: 15px;
+}
+
+.gear-icon2 {
+    padding-left: 180px;
+    padding-top: 20px;
+}
+
+#hhi {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#hhj {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#col1 img {
+    padding-left: 25px;
+    padding-top: 20px;
+    height: 70px;
+    width: 100%;
+}
+
+#col1 p {
+    padding-left: 22px;
+    padding-top: 10px;
+}
+
+.quick-links h5 {
+    padding-top: 30px;
+}
+
+#col2 {
+    padding-left: 0px;
+    padding-right: 90px;
+}
+
+
+.navbar-toggler-icon {
+    padding-left: 21px;
+    padding-top: 5px;
+    color: black;
+}
+
+
+.video-section video {
+    height: 450px;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 60px;
+}
+
+.social-icons {
+    padding-left: 20px;
+}
+
+
+.divone {
+    height: 100px;
+    /* background-color: #FF96FF; */
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 30px;
+
+
+
+}
+
+
+.divtwo {
+    height: 200px;
+    background-color: #5E50B9;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+
+
+
+}
+
+.two-style-images {
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-top: 35px;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+.two-style-images {
+    display: flex;
+    overflow: hidden;
+}
+
+.divone,
+.divtwo {
+    flex: 1;
+    transform: skew(-10deg);
+    /* Adjust the skew angle as needed */
+    overflow: hidden;
+}
+
+.divone img,
+.divtwo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Maintain aspect ratio and cover the skewed container */
+    transform: skew(10deg);
+    /* Counteract the parent skew to make the image appear straight */
+}
+
+
+.divone-textbox p {
+    padding: 10px;
+    color:#FFFFFF;
+
+}
+
+.divtwo-textbox p {
+    padding: 10px;
+    color: black;
+}
+
+.divtwo-textbox p i {
+    padding-left: 8px;
+}
+
+
+@media (max-width: 767.98px) {
+
+    .center-area {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 38px;
+    }
+
+
+    .ab1 {
+        padding-left: 60px;
+    }
+
+    .navbar-toggler-icon {
+        padding-left: 15px;
+    }
+
+    .copyright {
+        padding: 5px;
+    }
+
+    .video-section video {
+        height: 310px;
+        width: 100%;
+        padding-top: 70px;
+        padding-left: 2px;
+    }
+
+    .about-box2 {
+
+        height: auto;
+        width: 100%;
+        padding-top: 30px;
+
+
+
+    }
+
+    .carousel-caption {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 70%;
+        height: 68%;
+    }
+
+    .b2 {
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .middle-heading .row .line {
+        width: 15%;
+        height: 3px;
+        background-color: black;
+        margin: auto;
+    }
+
+    .boxes3 {
+        padding-bottom: 20px;
+    }
+
+    #col1 {
+        display: none;
+    }
+
+    .quick-links h5 {
+        padding-top: 30px;
+        font-size: large;
+    }
+
+    .quick-links ul li a {
+        font-size: medium;
+    }
+
+    .last-section {
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .two-style-images {
+        padding-top: 40px;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+
+    .center-area {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 38px;
+    }
+
+    .footer p {
+        font-size: medium;
+    }
+
+
+    .breakdown-recovery h4 {
+        font-size: medium;
+    }
+
+    .breakdown-summary {
+        font-size: small;
+    }
+
+    .navbar-toggler-icon {
+        padding-left: 15px;
+    }
+
+    .quick-links ul li a {
+        font-size: small;
+    }
+
+    .quick-links h5 {
+        font-size: medium;
+
+    }
+
+    #col1 {
+        display: none;
+    }
+
+    #col2 {
+        padding-left: 85px;
+    }
+
+    .carousel-caption {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 70%;
+        height: 67%;
+    }
+
+
+
+    .sm {
+        padding-top: 5px;
+    }
+
+    .middle-heading .row .line {
+        width: 20%;
+        height: 3px;
+        background-color: black;
+        margin: auto;
+    }
+
+    .dropdown-menu .dropdown-item{
+        padding-left: 50px;
+    }
+}
+
+
+
+@media (max-width: 433px) {
+
+    .center-area {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 38px;
+    }
+
+    .breakdown-summary {
+        background-color: #D0D0D0;
+        height: auto;
+        width: auto;
+        padding: 30px;
+        border-radius: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+
+    .breakdown-recovery {
+        padding-top: 30px;
+        padding-bottom: 0px;
+        padding-left: 30px;
+    }
+
+    .navbar-toggler-icon {
+        padding-left: 15px;
+    }
+
+    .carousel-caption {
+        background-color: #505050;
+        padding: 20px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 80%;
+        height: 30%;
+    }
+
+
+
+    .sm {
+        padding-top: 2px;
+    }
+
+    .middle-heading .row .line {
+        width: 20%;
+        height: 3px;
+        background-color: black;
+        margin: auto;
+    }
+
+    .footer p {
+        font-size: small;
+    }
+}
+
+.testimonial-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* This class is defining the styling for the container element that holds each
+testimonial in a testimonial grid. */
+.testimonial-container {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* This class is defining the styling for the avatar image */
+.testimonial-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto 20px;
+}
+
+.testimonial-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.testimonial-text {
+    margin-bottom: 20px;
+}
+
+.testimonial-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333333;
+}
+
+.testimonial-role {
+    font-size: 16px;
+    color: #666666;
+}
+
+/* This media query in CSS that targets screens with a maximum width of 600 pixels. */
+@media screen and (max-width: 600px) {
+    .testimonial-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* mobile tyre fitting css */
+.screw-drivers {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+}
+
+.screw-drivers-row {
+    /* background-color: #227f7c; */
+    /* background-color: #FF96FF; */
+    background-color: #7F41B7;
+    height: 50px;
+}
+
+.screw-drivers h3 {
+    font-family: 'Times New Roman', Times, serif;
+    /* color: white; */
+    color:#FFFFFF;
+    /* color: #000000; */
+    font-size: large;
+    font-weight: 9000;
+
+}
+
+.breakdown-recovery h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 15px;
+    margin-bottom: px;
+    /* Adjust this value to reduce the gap */
+}
+
+.breakdown-recovery .area {
+    background-color: rgb(255, 248, 248);
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+
+}
+
+.breakdown-recovery {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.breakdown-summary {
+    background-color: rgb(255, 248, 248);
+    height: auto;
+    width: auto;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.breakdown-summary {
+    transition: transform 0.3s ease-in;
+    /* Define the transition property on the initial state */
+}
+
+.breakdown-summary:hover {
+    transform: translateY(-10px);
+}
+
+
+@media (max-width: 320px) {
+    .breakdown-recovery h4 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        padding-top: 10px;
+        margin-bottom: 0px;
+        /* Adjust this value to reduce the gap */
+        font-size: small;
+
+    }
+
+    #icons a i {
+        color: rgb(58, 58, 58);
+    }
+
+}
+
+
+
+
+.breakdown-recovery .area {
+    background: rgb(218, 214, 214);
+    height: auto;
+    width: auto;
+    border-radius: 20px;
+
+}
+
+.breakdown-recovery {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+
+.breakdown-summary {
+    background-color: #D0D0D0;
+    height: auto;
+    width: auto;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+
+.footer-icons {
+    padding-left: 40px;
+
+}
+
+.footer-icons a {
+    padding-left: 2px;
+    color: #333333;
+
+}
+
+/* services page css styling area */
+.carousel-caption {
+    padding-bottom: 300px;
+}
+
+.container2 {
+    position: relative;
+}
+
+/* ider say services page ki css styling sheet */
+/* Style the carousel caption */
+.carousel-caption2 {
+    background-color: #505050;
+    padding: 30px;
+    /* Adjust padding as needed */
+    opacity: 0.6;
+    /* Adjust the opacity to your preference */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    /* Add a shadow effect */
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    /* Center the text inside the caption */
+    width: 60%;
+    height: 60%;
+}
+
+.carousel-inner .carousel-item img {
+    opacity: 0;
+    /* Start with opacity 0 */
+    transition: opacity 1s ease-in-out;
+    /* Define the transition properties */
+}
+
+.carousel-inner .carousel-item.active img {
+    opacity: 1;
+    /* When active, set opacity to 1 for a fade-in effect */
+}
+
+.tyre-service {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+.tyre-service-images {
+    padding: 30px;
+}
+
+.jumpstart-service {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+.jumpstart-service-images {
+    padding: 30px;
+}
+
+.breakdown-service {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+.breakdown-service-images {
+    padding: 30px;
+}
+
+.divone {
+    height: 200px;
+    background-color: rgb(217, 239, 247);
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+
+
+
+}
+
+.divtwo {
+    height: 200px;
+    background-color: rgb(255, 219, 154);
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+
+
+
+}
+
+.two-style-images {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+.two-style-images {
+    display: flex;
+    overflow: hidden;
+}
+
+.divone,
+.divtwo {
+    flex: 1;
+    transform: skew(-10deg);
+    /* Adjust the skew angle as needed */
+    overflow: hidden;
+}
+
+.divone img,
+.divtwo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* Maintain aspect ratio and cover the skewed container */
+    transform: skew(10deg);
+    /* Counteract the parent skew to make the image appear straight */
+}
+
+.divone-textbox {
+    padding-top: 35px;
+}
+
+.divtwo-textbox {
+    padding-top: 30px;
+}
+
+.divone-textbox p {
+    padding: 10px;
+
+}
+
+.divtwo-textbox p {
+    padding: 10px;
+}
+
+.divtwo-textbox p i {
+    padding-left: 8px;
+}
+
+.puncture-area {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.puncture-image img {
+    width: 300px;
+    /* Set the width to 200px */
+    height: 200px;
+    /* Set the height to 200px */
+    object-fit: cover;
+    /* Maintain the aspect ratio and cover the container */
+
+}
+
+
+
+
+/* social icons homepage */
+.social-icons {
+    padding-left: 42px;
+}
+
+.social-icons i {
+    padding-left: 2px;
+    color: #320f0f;
+}
+
+#manan {
+    display: none;
+
+}
+
+#icons a i {
+    padding-left: 5px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    #manan {
+        display: block;
+    }
+
+    #manan a i {
+        color: #f6f1f1;
+        padding-left: 2px;
+
+
+    }
+}
+
+
+#logo {
+    float: right;
+}
+
+.img-fluid {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.test {
+    border: 1px solid black;
+}
+
+.s1-row {
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 15px;
+}
+
+.s1-heading h5 {
+    padding-left: 30px;
+    padding-top: 35px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sline {
+    width: 15%;
+    margin: 35px;
+
+}
+
+.social-iconsss a {
+    display: none;
+}
+
+@media (max-width:767px) {
+    .social-iconsss a {
+        display: inline;
+
+    }
+
+    .social-iconsss i {
+        color: white;
+
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 374px) {
+    .carousel-caption2 h1 {
+        font-family: 'Times New Roman', Times, serif;
+        color: #fff;
+        padding-top: 30px;
+        font-size: medium;
+        /* Text color for better contrast */
+    }
+
+    .sm .p1 {
+        font-size: small;
+    }
+}
+
+@media screen and (min-width: 100px) and (max-width: 319px) {
+
+
+    .carousel-caption2 h1 {
+        font-family: 'Times New Roman', Times, serif;
+        color: #fff;
+        padding-top: 30px;
+        font-size: medium;
+        /* Text color for better contrast */
+    }
+
+    .sm .p1 {
+        font-size: small;
+    }
+}
+
+
+/* Media queries */
+/* for .carousel-caption2 */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .carousel-caption2 {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 70%;
+        height: 75%;
+    }
+
+    .gear-iconn {
+        padding-left: 210px;
+        padding-top: 20px;
+
+    }
+
+    .divone-textbox {
+        padding-top: 50px;
+    }
+
+    .divtwo-textbox {
+        padding-top: 30px;
+    }
+
+    .divone-textbox p {
+        padding: 10px;
+
+    }
+
+    .divtwo-textbox p {
+        padding: 10px;
+    }
+
+    .divone {
+        height: 250px;
+        background-color: rgb(217, 239, 247);
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        padding-bottom: 30px;
+
+
+
+    }
+
+    .divtwo {
+        height: 250px;
+        background-color: rgb(255, 219, 154);
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+
+
+
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .carousel-caption2 {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 75%;
+        height: 75%;
+    }
+
+    .gear-iconn {
+        padding-left: 190px;
+        padding-top: 20px;
+
+    }
+
+    .divone-textbox {
+        padding-top: 50px;
+    }
+
+    .divtwo-textbox {
+        padding-top: 35px;
+    }
+
+    .divone-textbox p {
+        padding: 10px;
+
+    }
+
+    .divtwo-textbox p {
+        padding: 10px;
+    }
+
+    .divone {
+        height: 200px;
+        background-color: rgb(217, 239, 247);
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        padding-bottom: 30px;
+
+
+
+    }
+
+    .divtwo {
+        height: 200px;
+        background-color: rgb(255, 219, 154);
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+
+
+
+    }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .carousel-caption2 {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 70%;
+        height: 75%;
+    }
+
+    .about-image {
+        background-image: url("nassets/about.jpg");
+        height: 300px;
+        width: 500px;
+        margin-top: 210px;
+        margin-left: 0px;
+        text-align: center;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* You can adjust this based on your needs */
+    }
+
+
+}
+
+@media only screen and (min-width: 375px) and (max-width: 575px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .carousel-caption2 {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 48%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 70%;
+        height: 75%;
+    }
+
+    .carousel-caption2 h1 {
+        font-size: x-large;
+    }
+
+    .sm .p1 {
+        font-size: 14px;
+    }
+
+    .divone-textbox {
+        padding-top: 30px;
+    }
+
+    .divtwo-textbox {
+        padding-top: 30px;
+    }
+
+    .divone-textbox p {
+        padding: 10px;
+        font-size: medium;
+    }
+
+    .divtwo-textbox p {
+        padding: 10px;
+        font-size: medium;
+    }
+
+    .divone {
+        height: auto;
+        background-color: rgb(217, 239, 247);
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        padding-bottom: 30px;
+        transform: none;
+
+
+
+    }
+
+    #hhi {
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    #hhj {
+        padding-bottom: 0px;
+    }
+
+    .divtwo {
+        height: auto;
+        background-color: rgb(255, 219, 154);
+        background-repeat: no-repeat;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        width: 100%;
+        transform: none;
+
+
+
+    }
+
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 375px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .carousel-caption2 {
+        background-color: #505050;
+        padding: 30px;
+        /* Adjust padding as needed */
+        opacity: 0.6;
+        /* Adjust the opacity to your preference */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+        /* Add a shadow effect */
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+        /* Center the text inside the caption */
+        width: 80%;
+        height: 80%;
+    }
+
+    .carousel-caption2 h1 {
+        font-size: x-large;
+    }
+
+    .sm .p1 {
+        font-size: 14px;
+    }
+}
+
+.depth-area {
+    margin: -20px;
+    padding: 15px;
+    /* Negative margin to create a 20px space between cards */
+}
+
+.card-img-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.card-img {
+    width: 100%;
+    height: auto;
+    /* Maintain aspect ratio */
+    transition: transform 0.5s;
+}
+
+.card-img:hover {
+    transform: scale(1.05);
+    /* Depth effect on hover */
+}
+
+.depth-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    width: 100%;
+}
+
+.about-image {
+    background-image: url("nassets/about.jpg");
+    height: 300px;
+    width: 400px;
+    margin-top: 250px;
+    margin-left: 50px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* You can adjust this based on your needs */
+}
+
+.row-a {
+    background-color: lightpink;
+    padding-left: 50px;
+    border-radius: 20px;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+.row-b {
+    background-color: lightcyan;
+    padding-left: 25px;
+    border-radius: 50px;
+    padding: 50px;
+}
+
+.about-text-box {
+    padding: 30px;
+    background-color: transparent;
+    margin-top: 40px;
+    transition: 0.3s ease-in;
+}
+
+.about-text-box:hover {
+    transform: translateY(-10px);
+
+}
+
+.about-text-box p {
+    font-weight: 200;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.second {
+    margin-top: -20px;
+}
+
+.third {
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.about-page-cards {
+    padding: 30px;
+}
+
+
+.card-big-shadow {
+    max-width: 320px;
+    position: relative;
+}
+
+.coloured-cards .card {
+    margin-top: 30px;
+}
+
+.card[data-radius="none"] {
+    border-radius: 0px;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
+    background-color: #FFFFFF;
+    color: #252422;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+
+.card[data-background="image"] .title,
+.card[data-background="image"] .stats,
+.card[data-background="image"] .category,
+.card[data-background="image"] .description,
+.card[data-background="image"] .content,
+.card[data-background="image"] .card-footer,
+.card[data-background="image"] small,
+.card[data-background="image"] .content a,
+.card[data-background="color"] .title,
+.card[data-background="color"] .stats,
+.card[data-background="color"] .category,
+.card[data-background="color"] .description,
+.card[data-background="color"] .content,
+.card[data-background="color"] .card-footer,
+.card[data-background="color"] small,
+.card[data-background="color"] .content a {
+    color: #FFFFFF;
+}
+
+.card.card-just-text .content {
+    padding: 50px 65px;
+    text-align: center;
+}
+
+.card .content {
+    padding: 20px 20px 10px 20px;
+}
+
+.card[data-color="blue"] .category {
+    color: #7a9e9f;
+}
+
+.card .category,
+.card .label {
+    font-size: 14px;
+    margin-bottom: 0px;
+}
+
+.card-big-shadow:before {
+    background-image: url("http://static.tumblr.com/i21wc39/coTmrkw40/shadow.png");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    bottom: -12%;
+    content: "";
+    display: block;
+    left: -12%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 0;
+}
+
+h4,
+.h4 {
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+h6,
+.h6 {
+    font-size: 0.9em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.card .description {
+    font-size: 16px;
+    color: #66615b;
+}
+
+.content-card {
+    margin-top: 30px;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+
+/*======== COLORS ===========*/
+.card[data-color="blue"] {
+    background: #b8d8d8;
+}
+
+.card[data-color="blue"] .description {
+    color: #506568;
+}
+
+.card[data-color="green"] {
+    background: #d5e5a3;
+}
+
+.card[data-color="green"] .description {
+    color: #60773d;
+}
+
+.card[data-color="green"] .category {
+    color: #92ac56;
+}
+
+.card[data-color="yellow"] {
+    background: #ffe28c;
+}
+
+.card[data-color="yellow"] .description {
+    color: #b25825;
+}
+
+.card[data-color="yellow"] .category {
+    color: #d88715;
+}
+
+.card[data-color="brown"] {
+    background: #d6c1ab;
+}
+
+.card[data-color="brown"] .description {
+    color: #75442e;
+}
+
+.card[data-color="brown"] .category {
+    color: #a47e65;
+}
+
+.card[data-color="purple"] {
+    background: #baa9ba;
+}
+
+.card[data-color="purple"] .description {
+    color: #3a283d;
+}
+
+.card[data-color="purple"] .category {
+    color: #5a283d;
+}
+
+.card[data-color="orange"] {
+    background: #ff8f5e;
+}
+
+.card[data-color="orange"] .description {
+    color: #772510;
+}
+
+.card[data-color="orange"] .category {
+    color: #e95e37;
+}
+
+
+.cc  {
+    background-image: url("nassets/s1f.jpg");
+    background-size: cover;
+    /* Scales the image to fit within the container without stretching */
+    background-position: center;
+    /* Centers the image within the container */
+    background-repeat: no-repeat;
+    /* Prevents image repetition */
+    background-attachment: fixed;
+    /* Fixes the background image to the viewport */
+    background-color: rgba(0, 0, 0, 0.1);
+    /* Light black background */
+    opacity: 1;
+
+}
+
+/* about us page css */
+.about-text-box h5 {
+    color: white;
+}
+
+.breakdown-wembly {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+
+
+}
+
+.breakdown-acton {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+
+
+.breakdown-acton p {
+    padding-left: 3px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+
+}
+
+.breakdown-wembly p {
+    padding-left: 3px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+
+}
+
+.breakdown-wembly h5 {
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.breakdown-acton h5 {
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.breakdown-wembly p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.breakdown-acton p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.breakdown-wembly-img {
+    max-height: 200px;
+    /* Adjust the maximum height as needed */
+    max-width: 100%;
+    margin-top: 40px;
+    /* Maintain aspect ratio */
+}
+
+.breakdown-acton-img {
+    max-height: 200px;
+    /* Adjust the maximum height as needed */
+    max-width: 100%;
+    margin-top: 40px;
+    /* Maintain aspect ratio */
+}
+
+/* end */
+
+
+
+/* Responsive styles for the map */
+.map {
+    position: relative;
+    padding-bottom: 75%;
+    /* Set the aspect ratio to 4:3 (75% of the container's width) */
+}
+
+.map iframe {
+    position: absolute;
+    width: 80%;
+    height: 50%;
+    padding-top: 60px;
+    padding-left: 30px;
+}
+
+.form-row {
+    padding-top: 80px;
+    padding-left: 80px;
+}
+
+/* CSS for screens between 991px and 1200px */
+@media screen and (min-width: 991px) and (max-width: 1200px) {
+
+    /* Your CSS styles for this range go here */
+    .map iframe {
+        position: absolute;
+        width: 93%;
+        height: 65%;
+        padding-top: 50px;
+        padding-left: 25px;
+    }
+
+    .form-row {
+        padding-top: 80px;
+        padding-left: 30px;
+    }
+
+
+}
+
+
+
+/* jumpstart page css */
+.jumpstart-wembly {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+
+
+
+}
+
+.jumpstart-acton {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+
+}
+
+.jumpstart-acton p {
+    padding-left: 3px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+
+}
+
+.jumpstart-wembly p {
+    padding-left: 3px;
+    padding-right: 20px;
+    padding-top: 20px;
+
+
+}
+
+.jumpstart-wembly h5 {
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.jumpstart-acton h5 {
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.jumpstart-wembly p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumpstart-acton p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumpstart-wembly-img {
+    max-height: 200px;
+    /* Adjust the maximum height as needed */
+    max-width: 100%;
+    margin-top: 50px;
+    /* Maintain aspect ratio */
+}
+
+.jumpstart-acton-img {
+    max-height: 200px;
+    /* Adjust the maximum height as needed */
+    max-width: 100%;
+    margin-top: 50px;
+    /* Maintain aspect ratio */
+    margin-bottom: 30px;
+}
+
+/* end */
+
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+
+
+    /* jumpstart page css */
+    .jumpstart-wembly {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+
+
+    }
+
+    .jumpstart-acton {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 5px;
+    }
+
+    .jumpstart-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 0px;
+        /* Maintain aspect ratio */
+    }
+
+    .jumpstart-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+    .breakdown-wembly {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+
+
+    }
+
+    .breakdown-acton {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 5px;
+    }
+
+
+
+
+    .breakdown-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 6px;
+
+
+    }
+
+    .breakdown-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 6px;
+
+
+    }
+
+    .breakdown-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 0px;
+        /* Maintain aspect ratio */
+    }
+
+    .breakdown-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+    /* end */
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+
+
+
+    /* jumpstart page css */
+    .jumpstart-wembly {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+
+
+    }
+
+    .jumpstart-acton {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 15px;
+
+
+    }
+
+    .jumpstart-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-wembly-img {
+        max-height: 230px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 82px;
+        /* Maintain aspect ratio */
+    }
+
+    .jumpstart-acton-img {
+        max-height: 230px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 82px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+    .breakdown-wembly {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+
+
+    }
+
+    .breakdown-acton {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+
+
+
+    .breakdown-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .breakdown-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .breakdown-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-wembly-img {
+        max-height: 230px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 82px;
+        /* Maintain aspect ratio */
+    }
+
+    .breakdown-acton-img {
+        max-height: 230px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 82px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+}
+
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+
+
+
+    /* jumpstart page css */
+    .jumpstart-wembly {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+
+
+    }
+
+    .jumpstart-acton {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 80px;
+        /* Maintain aspect ratio */
+    }
+
+    .jumpstart-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 83px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+    .breakdown-wembly {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 30px;
+
+
+    }
+
+    .breakdown-acton {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+
+
+
+    .breakdown-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .breakdown-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .breakdown-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 80px;
+        /* Maintain aspect ratio */
+    }
+
+    .breakdown-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 83px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 575px) {
+
+    /* jumpstart page css */
+    .jumpstart-wembly {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+
+
+    }
+
+    .jumpstart-acton {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom: 2px;
+
+
+    }
+
+    .jumpstart-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 0px;
+
+
+    }
+
+    .jumpstart-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 0px;
+
+
+    }
+
+    .jumpstart-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 10px;
+        /* Maintain aspect ratio */
+    }
+
+    .jumpstart-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+
+
+    .breakdown-wembly {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+
+
+    }
+
+    .breakdown-acton {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 5px;
+        padding-bottom: 2px;
+    }
+
+
+
+
+    .breakdown-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 0px;
+
+
+    }
+
+    .breakdown-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 0px;
+
+
+    }
+
+    .breakdown-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 10px;
+        /* Maintain aspect ratio */
+    }
+
+
+    .breakdown-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    /* Your CSS styles for screens wider than 1200px go here */
+
+    .jumpstart-wembly {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 40px;
+
+
+    }
+
+    .jumpstart-acton {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+
+
+    }
+
+    .jumpstart-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .jumpstart-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .jumpstart-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .jumpstart-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 88px;
+        /* Maintain aspect ratio */
+    }
+
+    .jumpstart-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 88px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+
+
+    .breakdown-wembly {
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 40px;
+
+
+    }
+
+    .breakdown-acton {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+
+
+
+
+    .breakdown-acton p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .breakdown-wembly p {
+        padding-left: 3px;
+        padding-right: 20px;
+        padding-top: 20px;
+
+
+    }
+
+    .breakdown-wembly h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-acton h5 {
+        padding-top: 30px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .breakdown-wembly p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-acton p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .breakdown-wembly-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 88px;
+        /* Maintain aspect ratio */
+    }
+
+
+    .breakdown-acton-img {
+        max-height: 200px;
+        /* Adjust the maximum height as needed */
+        max-width: 100%;
+        margin-top: 88px;
+        margin-bottom: 30px;
+        /* Maintain aspect ratio */
+    }
+}
+
+.google-maps iframe {
+    padding-left: 20px;
+    margin-top: 5px;
+    width: 600px;
+    padding-top: 30px;
+    height: 450px;
+    border: 0;
+}
+
+.contact-form-gap {
+    padding-top: 50px;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .google-maps iframe {
+        padding-left: 20px;
+        width: 450px;
+        height: 450px;
+        border: 0;
+    }
+}
+
+@media screen and (min-width: 1201px) {
+    /* Your CSS styles for screens wider than 1200px go here */
+
+    .google-maps iframe {
+        padding-left: 20px;
+        margin-top: 0px;
+        padding-top: opx;
+        width: 550px;
+        height: 450px;
+        border: 0;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .google-maps iframe {
+        padding-left: 0px;
+        margin-top: 40px;
+        margin-left: 0px;
+        padding-top: 0px;
+        padding-right: 7px;
+        width: 700px;
+        height: 450px;
+        border: 0;
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+
+    /* Your CSS styles for screens between 992px and 1200px go here */
+    .google-maps iframe {
+        margin-top: 35px;
+        margin-left: 0px;
+        margin-right: 30px;
+        padding-top: 0px;
+        padding-right: 7px;
+        width: 520px;
+        height: 300px;
+        border: 0;
+    }
+    .contact-form-gap {
+        padding-top: 0px;
+    }
+}
+
+
+@media screen and (min-width: 469px) and (max-width: 575px) {
+    .google-maps {
+        text-align: center;
+        /* Center the content horizontally */
+     
+    }
+
+    .google-maps iframe {
+        margin-top: 30px;
+        /* Center horizontally by setting left and right margins to "auto" */
+        padding-top: 0;
+        padding: auto;
+        width: 400px;
+        height: 200px;
+        margin-right: 25px;
+        border: 0;
+
+    }
+    .contact-form-gap {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (min-width: 370px) and (max-width: 468px) {
+    .google-maps {
+        text-align: center;
+        /* Center the content horizontally */
+    }
+
+    .google-maps iframe {
+       margin-top: 30px;
+        /* Center horizontally by setting left and right margins to "auto" */
+        padding-top: 0;
+        padding: auto;
+        width: 400px;
+        height: auto;
+        border: 0;
+        padding-right: 30px;
+
+    }
+    .contact-form-gap {
+        padding-top: 0px;
+    }
+    
+
+}
+
+@media screen and (min-width: 369px) and (max-width: 420px) {
+    .google-maps {
+      text-align: center; /* Center the content horizontally */
+      padding-right: 0px;
+      margin: 0 auto; /* Center the content horizontally */
+      padding-top: 30px; /* Center the content vertically */
+    }
+  
+    .google-maps iframe {
+      margin: 0 auto; /* Center horizontally by setting left and right margins to "auto" */
+      max-width: 100%; /* Make the iframe responsive */
+      height: auto;
+      border: 0;
+    }
+    .contact-form-gap {
+        padding-top: 0px;
+    }
+  }
+  @media screen and (min-width: 320px) and (max-width: 368px) {
+    .google-maps {
+      text-align: center; /* Center the content horizontally */
+      padding-right: 25px;
+      margin: 0 auto; /* Center the content horizontally */
+      padding-top: 5px; /* Center the content vertically */
+    }
+  
+    .google-maps iframe {
+      margin: 0 auto; /* Center horizontally by setting left and right margins to "auto" */
+      max-width: 100%; /* Make the iframe responsive */
+      height: auto;
+      border: 0;
+    }
+    .contact-form-gap {
+        padding-top: 0px;
+    }
+  }
+  /* Change the outline color to green when the input is in focus */
+ .home-card{
+    box-shadow:none;
+ }
+ .contact-msg-div{
+padding: 30px;
+background-color:  #7D72CC;;
+ }
+ .contact-msg-label{
+    color: #FFFFFF;
+ }
+ .contact-msg-button{
+    /* background-color: rgb(92, 15, 155); */
+    /* background-color: linear-gradient(to background, #32236D, #372877, #2D1E64); */
+    color: #FFFFFF;
+    margin-top: 30px;
+    border: 2px solid white;
+ }
+ .contact-msg-button:hover{
+    /* background-color: rgb(92, 15, 155); */
+    /* background: linear-gradient(to top, #32236D, #372877, #2D1E64); */
+    background-color: transparent;
+    color:black;
+    margin-top: 30px;
+ }
+ .home-card-body {
+    background-color: #227f7c;
+    width: 100%; /* Set the width to the desired size in pixels */
+    height: 100%; /* Set the height to the same value as the width */
+    /* width: 20rem; */
+}
+
+ .home-card-body-text{
+    color: #FFFFFF;
+    padding-left: 10px;
+ }
+ .home-card-body-title{
+  color: pink;
+  padding-left: 10px;
+  font-family: 'Times New Roman', Times, serif;
+ }
+ @media screen and (min-width: 768px) and (max-width: 991px){
+    .home-card-body-text
+    {
+font-size:13px;
+padding-top: 0px;
+    }
+    .center-area {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 25px;
+    }
+    .home-card-body-title {
+
+     font-size:large;   
+    }
+    .service-card-oo{
+        padding: 15px;
+    }
+    .two-style-images{
+        margin-top: px;
+    }
+    #hhi {
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    
+    #hhj {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+ }
